@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package format="2">
+    <name>pocl-planner</name>
+    <version>0.0.0</version>
+    <description>POCL-planner</description>
+
+    <maintainer email="pepevandooren@hotmail.com">Peter van Dooren</maintainer>
+
+    <license>BSD</license>
+
+</package>
